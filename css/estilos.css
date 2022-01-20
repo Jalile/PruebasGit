@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: burlywood;
+    margin: 0;
+    font-size: 16px;
+    padding: 0;
+    background: #f8fcff;
+
+}
+
+#cabecera{
+    background: blue;
+    font-weight: bold;
+    
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+
+#container h1{
+    font-size: 20px;
+}
